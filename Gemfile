@@ -7,7 +7,7 @@ if RUBY_VERSION >= '2.2.2'
   gem 'rack'
   gem 'json', '>= 2'
 else
-  gem 'rails', '~> 4.2.0'
+  gem 'rails', '~> 5.0.0'
   gem 'rack', '~>1.6'
   gem 'json', '~> 1.8.0'
 end

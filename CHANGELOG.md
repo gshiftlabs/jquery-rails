@@ -1,3 +1,7 @@
+## 5.0.0
+
+  - Minimum dependency set to Rails 5.0
+
 ## 4.3.1
 
 - update jquery to 3.2.1
